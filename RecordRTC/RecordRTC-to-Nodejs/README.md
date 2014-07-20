@@ -7,8 +7,10 @@
 ```
 npm install recordrtc-nodejs
 
+cd ~/node_modules/recordrtc-nodejs
+
 // to run it!
-node ./node_modules/recordrtc-nodejs/index.js
+node ./index.js
 ```
 
 =
